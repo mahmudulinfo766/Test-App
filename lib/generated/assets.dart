@@ -3,7 +3,7 @@ class Assets {
   Assets._();
 
   static const String assets = 'assets/.env';
-  static const String iconsInternetCheking = 'assets/icons/internet_cheking.svg';
+  static const String iconsNoInternet = 'assets/icons/no_internet.svg';
   static const String imagesLogo = 'assets/images/logo.png';
   static const String translationsBn = 'assets/translations/bn.json';
   static const String translationsEn = 'assets/translations/en.json';

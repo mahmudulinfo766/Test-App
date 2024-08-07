@@ -10,7 +10,6 @@ import 'package:test_app/features/screen/internet_checking/cubit/internet_cubit.
 import 'package:test_app/features/screen/internet_checking/internet_checking_view.dart';
 import 'package:test_app/features/screen/theme/app_theme.dart';
 import 'package:test_app/features/screen/theme/cubit/theme_cubit.dart';
-
 import 'app_context.dart';
 
 class InitApp extends StatelessWidget {

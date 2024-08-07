@@ -30,7 +30,7 @@ class InternetCheckingScreen extends StatelessWidget {
                 mainAxisSize: MainAxisSize.min,
                 children: [
                   CustomSvg(
-                    icon: Assets.iconsInternetCheking,
+                    icon: Assets.iconsNoInternet,
                     color: AppColors.kErrorColor,
                     size: 100.r,
                   ),
