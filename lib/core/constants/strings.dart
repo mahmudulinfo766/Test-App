@@ -5,7 +5,7 @@ const String kTranslatorDir = 'assets/translations';
 const String kImageUrl = 'https://.../';
 const String kBaseUrl = 'https://.../';
 
-const String kLanguage = 'bn';
+const String kLanguage = 'en';
 // Form Error
 final RegExp emailValidatorRegExp =
     RegExp(r'^\w+([\.\+-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,4})+$');
